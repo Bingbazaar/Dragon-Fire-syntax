@@ -3,6 +3,8 @@
 Fiery dragon syntax theme with hot colors!
 Cool animated flame for the bracket matcher!
 
+![PHP fire](https://imgur.com/a/Ohdwc)
+
 HTML:
 
 
