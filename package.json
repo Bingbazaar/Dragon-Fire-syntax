@@ -1,0 +1,19 @@
+{
+  "name": "dragon-fire-syntax",
+  "theme": "syntax",
+  "version": "0.5.2",
+  "description": "Fiery dragon syntax theme with hot colors!",
+  "keywords": [
+    "syntax",
+    "theme",
+    "dragon",
+    "colorful",
+    "hot",
+    "fire"
+  ],
+  "repository": "https://github.com/kingfisher7/dragon-fire-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
