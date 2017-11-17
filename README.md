@@ -6,6 +6,18 @@ Cool animated flame for the bracket matcher!
 ![PHP fire](https://i.imgur.com/xPR5dtH.gif)
 
 
+Update 0.3.2: Fixed problem with flame not working.
+
+
+Install using apm: 
+
+```shell
+apm install dragon-fire-syntax
+```
+
+
+
+
 HTML:
 
 
